@@ -9,4 +9,4 @@
 * Changer les couleur des textes
 * Aligner les textes
 
-Vous trouverez la page de Tim Berner Lee [ICI]()
+Vous trouverez la page de Tim Berner Lee [ICI](https://chrisbetbeder.github.io/starting-web-developpment/)
