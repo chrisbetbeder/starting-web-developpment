@@ -1,0 +1,95 @@
+body{
+    background-color: #dfe6e9;
+    font-family:'Open Sans', sans-serif;
+    
+}
+
+div{
+    text-align: justify;
+    background-color: white;
+    width: 500px;
+    height: 600px;
+    border: 1px  gray;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.nom{
+    color: #ff6b6b;
+}
+
+p{
+    color: #636e72;
+}
+h1{
+    text-align: center;
+}
+
+h3{
+    color: #636e72;
+    text-align: center;
+}
+
+.container-a{
+    text-align: center;
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.container-b{
+   text-align: center;
+    background-color: white;
+    width: 500px;
+    height: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    
+}
+
+.bouton{
+     font-family: 'Open Sans', sans-serif;
+     width: 200px;
+     height: 50px;
+     padding-top: 7px;
+     text-align: center;
+     color: white;
+     background: #ff6b6b;
+     border-radius: 5px;
+     font-size: 20px;
+     font-weight: bold;
+     
+}
+
+.photo{
+	text-align: left;
+}
+
+.img1{
+    border-radius: 50%;
+    border: solid 2px grey;
+}
+
+.img2{
+    text-align: center;
+}
+    
+}
+
+.texte-image{
+    overflow: hidden;
+}
+
+.text-image .img3{
+    float: left;
+}
